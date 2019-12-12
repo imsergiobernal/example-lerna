@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.5](https://github.com/imsergiobernal/example-lerna/compare/v0.1.4...v0.1.5) (2019-12-12)
+
+
+### Bug Fixes
+
+* **client-backend:** force release check 2 ([2c24fa0](https://github.com/imsergiobernal/example-lerna/commit/2c24fa0896961d225c7f8305d59c1f896f82f286))
+
+
+
+
+
 ## [0.1.4](https://github.com/imsergiobernal/example-lerna/compare/v0.1.3...v0.1.4) (2019-12-12)
 
 
