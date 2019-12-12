@@ -1,0 +1,27 @@
+{
+  "name": "example-lerna",
+  "version": "0.0.1",
+  "description": "Example of \u001f\u001fLerna usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lerna run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsergiobernal/example-lerna.git"
+  },
+  "keywords": [
+    "example",
+    "lerna"
+  ],
+  "author": "Sergio Bernal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsergiobernal/example-lerna/issues"
+  },
+  "homepage": "https://github.com/imsergiobernal/example-lerna#readme",
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  }
+}
