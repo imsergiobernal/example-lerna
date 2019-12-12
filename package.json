@@ -1,6 +1,6 @@
 {
   "name": "example-lerna",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha",
   "description": "Example of \u001f\u001fLerna usage",
   "main": "index.js",
   "scripts": {
